@@ -1,0 +1,6 @@
+name: anti192
+main: matsuyuki\anti192\main
+api: 4.0.0
+version: 1.0.0
+author: matsuyuki
+description: 内部IPからの参加者をkick!
